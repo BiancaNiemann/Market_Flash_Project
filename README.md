@@ -132,34 +132,11 @@ Tableau dashboard design for different stakeholders
 
 📢 Project Status
 
-Completed – potential next steps:
-
-Add user authentication for data access
-
-Automate data pipeline using scheduled queries or integrations
-
-Integrate campaign performance prediction using machine learning
-
-🔍 File Structure (Example)
-
-MarketFlash/
-├── assets/                # Screenshots or Tableau exports
-├── data/
-│   ├── original_data.xlsx
-│   ├── cleaned_data.csv
-│   └── mock_data/
-├── SQL/
-│   ├── create_tables.sql
-│   └── sample_queries.sql
-├── dashboards/
-│   └── tableau_links.txt
-├── README.md
-└── presentation/
-    └── marketflash_pitch.mp4
+Completed 
 
 👥 Author
 
-Your NameData Analyst | SQL | Tableau | BigQuery | Excel
+Bianca Niemann - Data Analyst | SQL | Tableau | BigQuery | Excel
 
 Feel free to connect with me on LinkedIn or explore my other GitHub projects.
 
