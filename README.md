@@ -138,6 +138,6 @@ Completed
 
 Bianca Niemann - Data Analyst | SQL | Tableau | BigQuery | Excel
 
-Feel free to connect with me on LinkedIn or explore my other GitHub projects.
+Feel free to connect with me on LinkedIn or explore my other GitHub projects. or [View my interactive Tableau dashboard](https://public.tableau.com/app/profile/bianca.niemann/viz/Market_Flash_project_17486070486910/MetricsDashboard?publish=yes)
 
 This project was completed as part of my data analytics learning journey, combining business understanding with technical tools to simulate a real-world analytics workflow.
