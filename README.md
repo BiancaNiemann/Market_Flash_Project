@@ -30,13 +30,11 @@ DrawSQL: ER diagram design and data modeling
 
 BigQuery: SQL database creation and querying
 
-Apps Script: Custom script to clean incorrectly formatted phone numbers
-
 Tableau: Dashboard development and presentation
 
 📊 Dataset Overview
 
-The original spreadsheet included fields such as:
+##### The original spreadsheet included fields such as:
 
 Campaign Number, Campaign Name, Start/End Dates
 
@@ -46,7 +44,7 @@ Views, Likes, Clicks, Conversions, Expense
 
 Executive contact person
 
-Normalized Entities Created
+##### Normalized Entities Created
 
 Campaigns (ID, Name, StartDate, EndDate, Budget)
 
@@ -58,7 +56,7 @@ Platforms (Platform_ID, Name, URL, Contact)
 
 Influencers, Contents, Payments, Metrics, Advertisements
 
-Relationships
+##### Relationships
 
 One client can run many campaigns
 
